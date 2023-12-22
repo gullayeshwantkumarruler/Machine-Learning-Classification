@@ -1,0 +1,34 @@
+Students are strongly encouraged to use tools like Matplotlib or Tensorboard to create charts and graphs showing their experiments and for making an easily interactive document. Special attention should be given to studying how different algorithm parameters affect their speed of convergence.
+
+Additionally, students must submit an application (either as a desktop client, a website, or a mobile app) that interacts with an API hosting various pre-trained models using previously prepared and appropriate datasets
+
+Before using the algorithms and models taught in class on the chosen topic, it's essential to prove that they work correctly on the provided test cases. It's suggested to test these on standard datasets (like those for linear separation, non-linear separation, classification tasks, regression tasks, etc.) that we've seen in the Machine Learning class.
+
+For the test project, we need to use the following model:
+
+- Multi-layer Perceptron
+
+
+These models and algorithms should be coded in PYTHON.
+
+They should also be used to find a solution for a complex application problem where human coding would be challenging, like distinguishing between two types of images.
+
+Through graphs, we need to highlight concepts learned in class like:
+
+- Underfitting
+- Overfitting
+- Biases in the example data
+- The challenge of finding a model that's both complex enough for the training data and simple enough to generalize well, and so on.
+  It's worth noting that coding is only the first step. The main project goal is for students to discuss the results and critically evaluate the tools from various classes and their relevance to real-world issues. Students are also encouraged to suggest other models and algorithms if they find them more fitting. They can also use the provided tensorflow/keras library to compare with their personal coding.
+
+Using external versions of the algorithms and models taught is not allowed (except for comparison). Each group member's contribution must be clearly identified. To train their model for a client application, students need an appropriate dataset.
+
+Here are the proposed problem/data pairings:
+For classification:
+
+- An app to categorize an image (photo) as either 'cotton candy', 'candy apple', or 'churros'."
+Note: Some of the specific terms, like "Perceptron Multi Couches", have standard English equivalents that are widely recognized in the field of machine learning.
+
+
+
+
